@@ -1,0 +1,14 @@
+
+.DS_Store
+
+mfe_venv_09/
+
+dist/
+
+*.pyc
+
+output/
+
+test/
+
+__pycache__/
