@@ -12,8 +12,8 @@ a = Analysis(
     ['src\\main.py'],
     pathex=[],
     binaries=[
-        ('C:\\Users\\admin\\Desktop\\mfe\\mfe_venv_09\\Lib\\site-packages\\xgboost\\lib\\xgboost.dll', 'lib'),
-        ('C:\\Users\\admin\\Desktop\\mfe\\mfe_venv_09\\Lib\\site-packages\\xgboost\\VERSION', 'xgboost'),
+        ('E:\\华南理工大学\\分子性质优化机器学习模型\\application\\mfe_venv_09\\Lib\\site-packages\\xgboost\\lib\\xgboost.dll', 'lib'),
+        ('E:\\华南理工大学\\分子性质优化机器学习模型\\application\\mfe_venv_09\\Lib\\site-packages\\xgboost\\VERSION', 'xgboost'),
     ],
     datas=[
         ('static/simhei.ttf', 'static'),
